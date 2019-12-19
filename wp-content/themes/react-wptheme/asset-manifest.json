@@ -1,0 +1,20 @@
+{
+  "files": {
+    "static/js/0.chunk.js": "/React-WPtheme/wp-content/themes/react-wptheme/static/js/0.chunk.js",
+    "static/js/0.chunk.js.map": "/React-WPtheme/wp-content/themes/react-wptheme/static/js/0.chunk.js.map",
+    "main.css": "/React-WPtheme/wp-content/themes/react-wptheme/static/css/main.chunk.css",
+    "main.js": "/React-WPtheme/wp-content/themes/react-wptheme/static/js/main.chunk.js",
+    "main.css.map": "/React-WPtheme/wp-content/themes/react-wptheme/static/css/main.chunk.css.map",
+    "main.js.map": "/React-WPtheme/wp-content/themes/react-wptheme/static/js/main.chunk.js.map",
+    "runtime-main.js": "/React-WPtheme/wp-content/themes/react-wptheme/static/js/bundle.js",
+    "runtime-main.js.map": "/React-WPtheme/wp-content/themes/react-wptheme/static/js/bundle.js.map",
+    "index.php": "/React-WPtheme/wp-content/themes/react-wptheme/index.php",
+    "static/media/logo.svg": "/React-WPtheme/wp-content/themes/react-wptheme/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/0.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
